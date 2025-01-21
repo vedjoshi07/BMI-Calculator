@@ -1,7 +1,7 @@
 BMI Calculator
 
 Overview:
-The BMI Calculator** allows users to easily calculate their Body Mass Index (BMI) based on their height and weight. The result is compared against the standard BMI chart to help users assess their health status.
+The BMI Calculator allows users to easily calculate their Body Mass Index (BMI) based on their height and weight. The result is compared against the standard BMI chart to help users assess their health status.
 
 Features:
 - User inputs their height in centimeters and weight in kilograms.
